@@ -43,3 +43,8 @@
 
 http://127.0.0.1/AutoXSSDetect.php?url=127.0.0.1/test.php?content=test<script>alert(1)</script>
 
+#测试效果
+![image](https://github.com/c0d1007/XSSDetect/blob/master/images/3.png)
+![image](https://github.com/c0d1007/XSSDetect/blob/master/images/1.png)
+![image](https://github.com/c0d1007/XSSDetect/blob/master/images/2.png)
+
