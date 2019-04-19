@@ -27,7 +27,7 @@
 2、要使用alert函数执行的payload才可测试成功；
 
 
-# 后续工作
+# 后续
 
 1、批量paylaod测试；
 
@@ -42,3 +42,4 @@
 # 测试例子
 
 http://127.0.0.1/AutoXSSDetect.php?url=127.0.0.1/test.php?content=test<script>alert(1)</script>
+
